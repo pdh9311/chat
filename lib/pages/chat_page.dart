@@ -146,7 +146,6 @@ class _ChatPageState extends State<ChatPage> {
         children: [
           Expanded(
             child: TextField(
-              autofocus: true,
               focusNode: focusNode,
               onSubmitted: sendMessageForEnter,
               controller: _msgController,
