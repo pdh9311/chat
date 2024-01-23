@@ -6,7 +6,7 @@ Flutter Chatting Project.
 
 ## 언어 & 도구
 
-- Dark
+- Dart
 - Flutter
 - Android Studio IDE
 
